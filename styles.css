@@ -1,0 +1,20 @@
+body {
+    background-color: cadetblue;
+}
+
+section {
+    text-align: center;
+    font-size: 30px;
+}
+
+button {
+    font-size: 30px;
+}
+
+h2 {
+    font-family: "Space Mono"
+}
+
+p {
+    font-family: "Space Mono";
+}
